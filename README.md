@@ -42,3 +42,11 @@
         alt="styled-components" 
         src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
+
+## Tecnologias que estou focado nos estudos
+
+<div style="display: inline_block"><br/>
+   - React Native
+   - NodeJS
+   - AdonisJS
+</div>
