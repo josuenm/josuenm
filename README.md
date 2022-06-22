@@ -41,8 +41,4 @@
         align="center" 
         alt="styled-components" 
         src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img 
-        align="center" 
-        alt="react-native" 
-        src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
