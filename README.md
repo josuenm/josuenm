@@ -46,7 +46,16 @@
 ## Tecnologias que estou focado nos estudos
 
 <div style="display: inline_block"><br/>
-   - React Native
-   - NodeJS
-   - AdonisJS
+   <img
+      align="center" 
+      alt="react-native"
+      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img
+      align="center" 
+      alt="node-js"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+   <img
+      align="center" 
+      alt="adonis-js"
+      src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" />
 </div>
