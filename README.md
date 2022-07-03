@@ -58,8 +58,8 @@
       align="center" 
       alt="node-js"
       src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <img
+   <!-- <img
       align="center" 
       alt="adonis-js"
-      src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" />
+      src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" /> -->
 </div>
