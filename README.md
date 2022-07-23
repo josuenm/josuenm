@@ -1,65 +1,41 @@
-### Olá, eu sou Josué Mendonça 👽
+### Olá, eu sou Josué M. Mendonça 👽
+
+<hr />
+
+<div style="padding: 20px 0 40px;">
+    <div>
+        <strong>Tecnologias</strong>: 
+        <span>
+            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Node.js, MongoDB
+        </span>
+    </div>
+    <div>
+        <strong>Aprendendo</strong>: 
+        <span>
+            Node.js, SOLID, PostgresSQL
+        </span>
+    </div>
+    <div>
+        <strong>Ferramentas</strong>: 
+        <span>
+            VS Code, Figma e Docker
+        </span>
+    </div>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,vscode,figma,docker)](https://skillicons.dev)
+
+<div style="padding: 5px 0"></div>
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-nine-beryl-31.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-n-mendonça-542409207/)
 
+<div style="padding: 10px 0"></div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuenm&show_icons=true&theme=radical)
+
+<div style="padding: 10px 0"></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuenm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias
-
-<div style="display: inline_block"><br/>
-    <img 
-        align="center" 
-        alt="html5" 
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img 
-        align="center" 
-        alt="css" 
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img 
-        align="center" 
-        alt="sass" 
-        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img 
-        align="center" 
-        alt="javascript" 
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img 
-        align="center" 
-        alt="typescript" 
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img 
-        align="center" 
-        alt="nodejs" 
-        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img 
-        align="center" 
-        alt="react" 
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img 
-        align="center" 
-        alt="next-js" 
-        src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img 
-        align="center" 
-        alt="styled-components" 
-        src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</div>
-
-## Tecnologias que estou focado nos estudos
-
-<div style="display: inline_block"><br/>
-   <!-- <img
-      align="center" 
-      alt="react-native"
-      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-   <img
-      align="center" 
-      alt="node-js"
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <!-- <img
-      align="center" 
-      alt="adonis-js"
-      src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" /> -->
-</div>
+<div style="padding: 10px 0"></div>
