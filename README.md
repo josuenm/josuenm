@@ -2,7 +2,7 @@
 
 <hr />
 
-<div style="padding: 20px 0 40px;">
+<div style="padding: 20px 0;">
     <div>
         <strong>Tecnologias</strong>: 
         <span>
