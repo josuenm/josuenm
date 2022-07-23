@@ -50,10 +50,10 @@
 ## Tecnologias que estou focado nos estudos
 
 <div style="display: inline_block"><br/>
-   <img
+   <!-- <img
       align="center" 
       alt="react-native"
-      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
    <img
       align="center" 
       alt="node-js"
