@@ -39,3 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuenm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="padding: 10px 0"></div>
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
