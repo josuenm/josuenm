@@ -23,9 +23,9 @@
     </div>
 </div>
 
-<div style="padding: 10px 0">
-    [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,vscode,figma,docker)](https://skillicons.dev)
-</div>
+<hr />
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,vscode,figma,docker)](https://skillicons.dev)
 
 <div style="padding: 5px 0"></div>
 
