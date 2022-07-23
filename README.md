@@ -1,7 +1,5 @@
 ### Olá, eu sou Josué M. Mendonça 👽
 
-<hr />
-
 <div style="padding: 20px 0;">
     <div>
         <strong>Tecnologias</strong>: 
