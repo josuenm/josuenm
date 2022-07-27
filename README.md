@@ -10,7 +10,7 @@
     <div>
         <strong>Aprendendo</strong>: 
         <span>
-            Node.js, SOLID, PostgresSQL
+            Node.js com Express e SOLID
         </span>
     </div>
     <div>
