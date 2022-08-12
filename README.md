@@ -16,14 +16,14 @@
     <div>
         <strong>Ferramentas</strong>: 
         <span>
-            VS Code, Figma e Docker
+            VS Code e Figma
         </span>
     </div>
 </div>
 
 <hr />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,vscode,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,vscode,figma)](https://skillicons.dev)
 
 <div style="padding: 5px 0"></div>
 
