@@ -10,7 +10,7 @@
     <div>
         <strong>Aprendendo</strong>: 
         <span>
-            Node.js com Express e SOLID
+            React Native (Expo 46)
         </span>
     </div>
     <div>
