@@ -4,7 +4,7 @@
     <div>
         <strong>Tecnologias</strong>: 
         <span>
-            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Node.js, Express MongoDB
+            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Native-Base Node.js, Express MongoDB
         </span>
     </div>
     <div>
