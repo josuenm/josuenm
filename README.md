@@ -1,20 +1,20 @@
-### Olá, eu sou Josué N. Mendonça 👽
+### Hello, I'm Josué Mendonça 👽
 
 <div style="padding: 20px 0;">
     <div>
-        <strong>Tecnologias</strong>: 
+        <strong>Technologies</strong>: 
         <span>
             HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Native-Base, Node.js, Express MongoDB
         </span>
     </div>
     <div>
-        <strong>Aprendendo</strong>: 
+        <strong>Learning</strong>: 
         <span>
             React Native (Expo 46)
         </span>
     </div>
     <div>
-        <strong>Ferramentas</strong>: 
+        <strong>Tools</strong>: 
         <span>
             VS Code e Figma
         </span>
@@ -27,7 +27,7 @@
 
 <div style="padding: 5px 0"></div>
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm-portfolio.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuenm)
 
 <div style="padding: 10px 0"></div>
