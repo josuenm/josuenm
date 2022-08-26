@@ -16,7 +16,7 @@
     <div>
         <strong>Tools</strong>: 
         <span>
-            VS Code e Figma
+            VS Code, Git, Figma
         </span>
     </div>
 </div>
