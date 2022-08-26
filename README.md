@@ -4,7 +4,7 @@
     <div>
         <strong>Technologies</strong>: 
         <span>
-            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Node.js, Express MongoDB and the basics of React Native with Expo 46, Native-Base
+            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Node.js, Express MongoDB, basics of React Native with Expo 46, Native-Base
         </span>
     </div>
     <div>
