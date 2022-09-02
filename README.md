@@ -8,15 +8,15 @@
         </span>
     </div>
     <div>
-        <strong>Learning</strong>: 
-        <span>
-            React Native (Expo 46)
-        </span>
-    </div>
-    <div>
         <strong>Tools</strong>: 
         <span>
             VS Code, Git, Figma
+        </span>
+    </div>
+    <div>
+        <strong>Learning</strong>: 
+        <span>
+            React Native 0.69.5 (Expo 46), Node.js (Express), PostgreSQL
         </span>
     </div>
 </div>
