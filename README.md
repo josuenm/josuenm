@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            3d elements and SVGs and how to animate them, React Native 0.69.5 (Expo 46), Node.js (Express), PostgreSQL
+            React Native 0.69.5 (Expo 46), Node.js (Express), PostgreSQL
         </span>
     </div>
 </div>
