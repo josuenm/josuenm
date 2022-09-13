@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            React Native 0.69.5 (Expo 46), Node.js (Express), PostgreSQL
+            Tailwind, PostgreSQL
         </span>
     </div>
 </div>
