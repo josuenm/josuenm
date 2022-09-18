@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            Express, MySQL
+            Tailwind, MySQL
         </span>
     </div>
 </div>
