@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            Tailwind, Electron, MySQL
+            MySQL
         </span>
     </div>
 </div>
