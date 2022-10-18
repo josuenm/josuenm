@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            MySQL
+            TypeORM
         </span>
     </div>
 </div>
