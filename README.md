@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            TypeORM
+            Jest
         </span>
     </div>
 </div>
