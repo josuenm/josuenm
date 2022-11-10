@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            Jest
+            Jest Unit test for React, Java Spring
         </span>
     </div>
 </div>
