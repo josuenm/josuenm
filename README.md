@@ -4,7 +4,7 @@
     <div>
         <strong>Technologies</strong>: 
         <span>
-            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Tailwind, Node.js, Express MongoDB, basics of React Native 0.69.5 with Expo 46, Native-Base
+            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base
         </span>
     </div>
     <div>
@@ -16,7 +16,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            Unit test for React, Java Spring
+            
         </span>
     </div>
 </div>
