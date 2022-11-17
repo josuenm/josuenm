@@ -15,9 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>
-            
-        </span>
+        <span>Improving what I already know</span>
     </div>
 </div>
 
