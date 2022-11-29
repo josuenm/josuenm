@@ -39,7 +39,7 @@
 
 <br />
 <a target="_blank" href="https://purplenotes.vercel.app">
-<img src="assets/purplenotes-thumb.jpg" width="100%" height="150px" alt="Purple Notes App"/>
+<img src="assets/purplenotes-thumb.jpg" width="100%" height="250px" alt="Purple Notes App"/>
 </a>
 <br />
 
@@ -63,7 +63,7 @@ It is a full-stack note-taking application. You can access it from anywhere beca
 
 <br />
 <a target="_blank" href="https://josuenm-dashvelar.web.app">
-<img src="assets/dashvelar-thumb.png" width="100%" height="150px" alt="Dashvelar App"/>
+<img src="assets/dashvelar-thumb.png" width="100%" height="250px" alt="Dashvelar App"/>
 </a>
 <br />
 
@@ -89,7 +89,7 @@ Beautiful dashboard made in a fully productive way, the components are functiona
 
 <br />
 <a target="_blank" href="https://josuenm.github.io/netflix/">
-<img src="assets/netflixclone-thumb.jpg" width="100%" height="150px" alt="Purple Notes App"/>
+<img src="assets/netflixclone-thumb.jpg" width="100%" height="250px" alt="Purple Notes App"/>
 </a>
 <br />
 
@@ -113,7 +113,7 @@ This application is a clone of Linkedin, React and firebase were used
 
 <br />
 <a target="_blank" href="https://linkedin-clone-6deba.web.app">
-<img src="assets/linkedinclone-thumb.jpg" width="100%" height="150px" alt="Dashvelar App"/>
+<img src="assets/linkedinclone-thumb.jpg" width="100%" height="250px" alt="Dashvelar App"/>
 </a>
 <br />
 
