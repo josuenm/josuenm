@@ -17,6 +17,7 @@
         <strong>Learning</strong>: 
         <span>Improving what I already know</span>
     </div>
+    <br />
     <div style="padding: 10px 0"></div>
     
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm-portfolio.vercel.app)
