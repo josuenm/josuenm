@@ -104,7 +104,7 @@ Beautiful dashboard made in a fully productive way, the components are functiona
 </p>
 
 <p>
-This application is a clone of Linkedin, React and firebase were used
+This application is a clone of Netflix, React was used and data was taken from TMDB
 </p>
 </td>
 
@@ -128,7 +128,7 @@ This application is a clone of Linkedin, React and firebase were used
 </p>
 
 <p>
-Beautiful dashboard made in a fully productive way, the components are functional and responsive!
+This application is a clone of Linkedin, React and firebase were used
 </p>
 </td>
 </tr>
