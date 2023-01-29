@@ -4,7 +4,7 @@
     <div>
         <strong>Technologies</strong>: 
         <span>
-            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base
+            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base, Electron, GIT
         </span>
     </div>
     <div>
@@ -15,7 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>Improving what I already know</span>
+        <span>Electron, Jest on backend</span>
     </div>
     <br />
     <div style="padding: 10px 0"></div>
