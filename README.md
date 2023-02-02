@@ -15,7 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>Electron, Jest on backend</span>
+        <span>PHP, Jest on Node.js</span>
     </div>
     <br />
     <div style="padding: 10px 0"></div>
