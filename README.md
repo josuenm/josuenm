@@ -36,6 +36,28 @@
 <tr>
 <td wdith="50%" valign="top">
 
+<h3 align="center">ValidaPix</h3>
+
+<br />
+<a target="_blank" href="https://www.validapix.tech">
+<img src="assets/validapix-thumb.jpg" width="100%" alt="Savage servidores"/>
+</a>
+<br />
+
+<p align="center">
+<span>Private Repo</span>
+<a href="https://www.validapix.tech" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+</p>
+
+<p>
+This landing page was made for ValidaPix, which is a company that brings pix validation (Brazilian instant payment method) in a simple and modern way. I developed from the MVP of the dashboard and now the landing page.
+</p>
+</td>
+
+<td wdith="50%" valign="top">
+
 <h3 align="center">Savage Servidores</h3>
 
 <br />
@@ -56,6 +78,9 @@ It is an application made to accommodate players looking for a great CSGO server
 </p>
 </td>
 
+</tr>
+
+<tr>
 <td wdith="50%" valign="top">
 
 <h3 align="center">Moldes Mágicos</h3>
@@ -79,9 +104,6 @@ It is an application made to accommodate players looking for a great CSGO server
 This was a landing page focused on selling to an older audience, so the focus was on making something simple. Currently the info-producer of this product is making a great profit
 </p>
 </td>
-</tr>
-
-<tr>
 <td wdith="50%" valign="top">
 
 <h3 align="center">Pacote de Moldes</h3>
@@ -106,29 +128,6 @@ This Landing Page was focused on low price sales, and the target audience was th
 </p>
 </td>
 
-<td wdith="50%" valign="top">
-
-<h3 align="center">Purple Notes</h3>
-
-<br />
-<a target="_blank" href="https://purplenotes.vercel.app">
-<img src="assets/purplenotes-thumb.jpg" width="100%" alt="Purple Notes"/>
-</a>
-<br />
-
-<p align="center">
-<a href="https://github.com/josuenm/purplenotes-front-end" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>  
-<a href="https://purplenotes.vercel.app" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-</p>
-
-<p>
-It is a full-stack note-taking application. You can access it from anywhere because everything is saved in the cloud!
-</p>
-</td>
 </tr>
 
 </table>
