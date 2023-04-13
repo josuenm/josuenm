@@ -15,7 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>Improving what I know</span>
+        <span>PHP and Laravel</span>
     </div>
     <br />
     <div style="padding: 10px 0"></div>
