@@ -15,7 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>PHP, Jest on Node.js</span>
+        <span>PHP and Laravel</span>
     </div>
     <br />
     <div style="padding: 10px 0"></div>
