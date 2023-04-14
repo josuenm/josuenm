@@ -36,6 +36,28 @@
 <tr>
 <td wdith="50%" valign="top">
 
+<h3 align="center">Gerador de PIX QR Code - ValidaPix</h3>
+
+<br />
+<a target="_blank" href="gerarqrcodepix.validapix.tech">
+<img src="assets/validapix-gerador.jpg" width="100%" alt="Savage servidores"/>
+</a>
+<br />
+
+<p align="center">
+<span>Private Repo</span>
+<a href="gerarqrcodepix.validapix.tech" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+</p>
+
+<p>
+Web application is a Brazilian PIX payment generator that allows users to easily create QR codes and copy-and-paste payment information for instant transactions.
+</p>
+</td>
+
+<td wdith="50%" valign="top">
+
 <h3 align="center">ValidaPix</h3>
 
 <br />
@@ -56,6 +78,9 @@ This landing page was made for ValidaPix, which is a company that brings pix val
 </p>
 </td>
 
+</tr>
+
+<tr>
 <td wdith="50%" valign="top">
 
 <h3 align="center">Savage Servidores</h3>
@@ -76,34 +101,9 @@ This landing page was made for ValidaPix, which is a company that brings pix val
 <p>
 It is an application made to accommodate players looking for a great CSGO server. As the page's audience is younger, I focused on leaving a modern and simple design at the same time. Also the client opted to have SEO i.e. I needed to use Next.js because it fit the requirement so well.
 </p>
+
 </td>
 
-</tr>
-
-<tr>
-<td wdith="50%" valign="top">
-
-<h3 align="center">Moldes Mágicos</h3>
-
-<br />
-<a target="_blank" href="https://moldesmagicos.com">
-<img src="assets/magic-molds-thumb.jpg" width="100%" alt="Moldes mágicos"/>
-</a>
-<br />
-
-<p align="center">
-<a href="https://github.com/josuenm/lp-fabiano" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>  
-<a href="https://moldesmagicos.com" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-</p>
-
-<p>
-This was a landing page focused on selling to an older audience, so the focus was on making something simple. Currently the info-producer of this product is making a great profit
-</p>
-</td>
 <td wdith="50%" valign="top">
 
 <h3 align="center">Pacote de Moldes</h3>
