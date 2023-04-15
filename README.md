@@ -36,17 +36,17 @@
 <tr>
 <td wdith="50%" valign="top">
 
-<h3 align="center">Gerador de PIX QR Code - ValidaPix</h3>
+<h3 align="center">Gerador de PIX - ValidaPix</h3>
 
 <br />
-<a target="_blank" href="gerarqrcodepix.validapix.tech">
+<a target="_blank" href="https://gerarqrcodepix.validapix.tech">
 <img src="assets/validapix-gerador.jpg" width="100%" alt="Savage servidores"/>
 </a>
 <br />
 
 <p align="center">
 <span>Private Repo</span>
-<a href="gerarqrcodepix.validapix.tech" target="_blank">
+<a href="https://gerarqrcodepix.validapix.tech" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 </p>
