@@ -4,7 +4,7 @@
     <div>
         <strong>Technologies</strong>: 
         <span>
-            HTML, CSS, SASS, Bootstrap, Javascript, Typescript, React, Next.js, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base, Electron, GIT
+            Javascript, Typescript, React, Next.js, PHP, Laravel, HTML, CSS, SASS, Bootstrap, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base, Electron, GIT
         </span>
     </div>
     <div>
