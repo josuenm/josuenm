@@ -1,10 +1,29 @@
 ### Hello, I'm Josué Mendonça 👽
 
-<div style="padding-top: 20px;">
+<div>
     <div>
-        <strong>Technologies</strong>: 
+        <strong>Languages</strong>: 
         <span>
-            Javascript, Typescript, React, Next.js, PHP, Laravel, Jquery, HTML, CSS, SASS, Bootstrap 4 e 5, Chakra-UI, Tailwind, Node.js, Express, MongoDB, MySQL, TypeORM, basics of React Native 0.69.5 with Expo 46, Native-Base, Electron, GIT
+            Javascript, Typescript, PHP
+        </span>
+    </div>
+    <div>
+        <strong>Frontend</strong>: 
+        <span>
+            HTML, CSS, SASS, React, jQuery, Bootstrap (4,5), Chakra-UI, Tailwind, TypeORM, React Native, Expo, Native-Base, Electron
+        </span>
+    </div>
+    <div>
+        <strong>Backend</strong>: 
+        <span>
+            PHP, Laravel, Node.js, Next.js, MySQL, MongoDB
+        </span>
+    </div>
+    <br />    
+    <div>
+        <strong>Versioning</strong>: 
+        <span>
+            GIT
         </span>
     </div>
     <div>
@@ -13,6 +32,13 @@
             VS Code, Git, Figma
         </span>
     </div>
+     <div>
+        <strong>DevOps</strong>: 
+        <span>
+            JIRA, Docker
+        </span>
+    </div>
+    <br />
     <div>
         <strong>Learning</strong>: 
         <span>PHP, Laravel</span>
