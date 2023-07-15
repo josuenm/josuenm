@@ -15,7 +15,7 @@
     </div>
     <div>
         <strong>Learning</strong>: 
-        <span>Spring (Java 19), PHP, Laravel</span>
+        <span>PHP, Laravel</span>
     </div>
     <br />
     <div style="padding: 10px 0"></div>
