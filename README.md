@@ -39,11 +39,6 @@
         </span>
     </div>
     <br />
-    <div>
-        <strong>Learning</strong>: 
-        <span>Spring (Java 17), PHP & Laravel</span>
-    </div>
-    <br />
     <div style="padding: 10px 0"></div>
     
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm-portfolio.vercel.app)
