@@ -10,7 +10,7 @@
     <div>
         <strong>Frontend</strong>: 
         <span>
-            HTML, CSS, SASS, React, jQuery, Bootstrap (4,5), Chakra-UI, Tailwind, TypeORM, React Native, Expo, Native-Base, Electron
+            HTML, CSS, SASS, React, jQuery, Bootstrap (4,5), Tailwind, TypeORM, React Native, Expo, Electron
         </span>
     </div>
     <div>
