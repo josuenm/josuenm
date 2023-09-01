@@ -1,6 +1,14 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuenm&label=Profile%20views&color=0e75b6&style=flat" alt="josuenm" /> </p>
+
 ### Hello, I'm Josué Mendonça 👽
 
 <div>
+    <div>
+        <strong>Learning</strong>: 
+        <span>
+            Java 17, Spring 6
+        </span>
+    </div>
     <div>
         <strong>Languages</strong>: 
         <span>
@@ -19,7 +27,6 @@
             PHP, Laravel, Node.js, Next.js, MySQL, MongoDB
         </span>
     </div>
-    <br />    
     <div>
         <strong>Versioning</strong>: 
         <span>
@@ -38,8 +45,7 @@
             JIRA, Docker
         </span>
     </div>
-    <br />
-    <div style="padding: 10px 0"></div>
+<br />
     
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuenm)
@@ -155,9 +161,12 @@ This Landing Page was focused on low price sales, and the target audience was th
 
 <div style="padding: 10px 0"></div>
 
-![](https://github-readme-stats.vercel.app/api?username=josuenm&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josuenm&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josuenm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuenm&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="josuenm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuenm&theme=dark&hide_border=true&show_icons=true&locale=en" alt="josuenm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuenm&theme=dark&hide_border=true" alt="josuenm" /></p>
+
 
 <div style="padding: 10px 0"></div>
 
