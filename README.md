@@ -24,7 +24,7 @@
     <div>
         <strong>Backend</strong>: 
         <span>
-            PHP, Laravel, Node.js, Next.js, MySQL, MongoDB
+            PHP, Laravel, Node.js, Nest.js, Next.js, MySQL, MongoDB
         </span>
     </div>
     <div>
