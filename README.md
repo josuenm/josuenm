@@ -6,7 +6,7 @@
     <div>
         <strong>Learning</strong>: 
         <span>
-            Java 17, Spring 6
+            Java 17
         </span>
     </div>
     <div>
