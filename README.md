@@ -4,12 +4,6 @@
 
 <div>
     <div>
-        <strong>Learning</strong>: 
-        <span>
-            Java 17
-        </span>
-    </div>
-    <div>
         <strong>Languages</strong>: 
         <span>
             Javascript, Typescript, PHP
