@@ -155,11 +155,11 @@ This Landing Page was focused on low price sales, and the target audience was th
 
 <div style="padding: 10px 0"></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuenm&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuenm&layout=compact)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=josuenm&theme=dark&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=josuenm&count_private=true&show_icons=true&hide=contribs)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuenm&theme=dark&hide_border=true" alt="josuenm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuenm&hide_border=true" alt="josuenm" />
 
 
 <div style="padding: 10px 0"></div>
