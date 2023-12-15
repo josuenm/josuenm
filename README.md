@@ -55,6 +55,29 @@
 <table border bordercolor="#505050" width="100%">
 
 <tr>
+
+<td wdith="50%" valign="top">
+
+<h3 align="center">ValidaPix Dashboard</h3>
+
+<br />
+<a target="_blank" href="https://www.validapix.tech">
+<img src="assets/validapix-thumb.jpg" width="100%" alt="Savage servidores"/>
+</a>
+<br />
+
+<p align="center">
+<span>Private Repo</span>
+<a href="https://www.validapix.tech" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+</p>
+
+<p>
+This dashboard was made for ValidaPix, which is a company that brings pix validation (Brazilian instant payment method) in a simple and modern way. I developed from the MVP of the dashboard and now the landing page.
+</p>
+</td>
+
 <td wdith="50%" valign="top">
 
 <h3 align="center">Gerador de PIX - ValidaPix</h3>
@@ -77,9 +100,13 @@ Web application is a Brazilian PIX payment generator that allows users to easily
 </p>
 </td>
 
+</tr>
+
+<tr>
+
 <td wdith="50%" valign="top">
 
-<h3 align="center">ValidaPix</h3>
+<h3 align="center">ValidaPix Landing Page</h3>
 
 <br />
 <a target="_blank" href="https://www.validapix.tech">
@@ -99,9 +126,6 @@ This landing page was made for ValidaPix, which is a company that brings pix val
 </p>
 </td>
 
-</tr>
-
-<tr>
 <td wdith="50%" valign="top">
 
 <h3 align="center">Savage Servidores</h3>
@@ -125,30 +149,6 @@ It is an application made to accommodate players looking for a great CSGO server
 
 </td>
 
-<td wdith="50%" valign="top">
-
-<h3 align="center">Pacote de Moldes</h3>
-
-<br />
-<a target="_blank" href="https://josuenm.github.io/netflix/">
-<img src="assets/molds-pack-thumb.jpg" width="100%" alt="Pacote de moldes"/>
-</a>
-<br />
-
-<p align="center">
-<a href="https://github.com/josuenm/lp-fabiano-02" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>  
-<a href="https://pacotedemoldes.com" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-</p>
-
-<p>
-This Landing Page was focused on low price sales, and the target audience was the elderly, so the focus was on simplicity but without giving up a touch of modernity as the customer asked
-</p>
-</td>
-
 </tr>
 
 </table>
@@ -160,7 +160,6 @@ This Landing Page was focused on low price sales, and the target audience was th
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=josuenm&count_private=true&show_icons=true&hide=contribs)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuenm&hide_border=true" alt="josuenm" />
-
 
 <div style="padding: 10px 0"></div>
 
