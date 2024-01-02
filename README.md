@@ -12,13 +12,13 @@
     <div>
         <strong>Frontend</strong>: 
         <span>
-            HTML, CSS, SASS, React, jQuery, Bootstrap (4,5), Tailwind, React Native, Expo, Electron
+            HTML, CSS, SASS, Bootstrap, jQuery, React, Next.js, Tailwind, React Native, Expo, Electron
         </span>
     </div>
     <div>
         <strong>Backend</strong>: 
         <span>
-            PHP, Laravel, Node.js, Nest.js, TypeORM, Next.js, MySQL, MongoDB
+            Node.js, Express, Nest.js, PHP, Laravel, MySQL, PostgreSQL, MongoDB
         </span>
     </div>
     <div>
