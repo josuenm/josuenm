@@ -10,8 +10,3 @@
 
 <hr />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuenm&hide_border=true" alt="josuenm" />
-
-<div style="padding: 10px 0"></div>
-
-![Snake animation](https://github.com/josuenm/josuenm/blob/output/github-contribution-grid-snake.svg)
