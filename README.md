@@ -13,9 +13,9 @@
 ### 🛠 Tech Stack
 
 - 🌐 **Front-end:** React.js, Next.js, React Native (Expo), Electron  
-- 🎨 **Styling:** Tailwind CSS  
-- 🧠 **Languages:** JavaScript, TypeScript  
-- 🔧 **Back-end:** Node.js, Express, NestJS  
+- 🎨 **Styling:** Tailwind, Bootstrap, CSS, SCSS
+- 🧠 **Languages:** JavaScript, TypeScript, PHP  
+- 🔧 **Back-end:** Node.js, Express, NestJS, Laravel  
 - 🗃 **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB  
 - ☁️ **Cloud & DevOps:** AWS, Git, Azure  
 - 🧩 **Tools:** JIRA, GitHub
