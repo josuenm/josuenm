@@ -1,12 +1,31 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuenm&label=Profile%20views&color=0e75b6&style=flat" alt="josuenm" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=josuenm&label=Profile%20views&color=0e75b6&style=flat" alt="josuenm" />
+</p>
 
-### Hello, I'm Josué Mendonça 👽
+### Hey there, I'm Josué Mendonça 👽
 
-<br />
-    
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josuenm.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuemendonca)
-</div>
+🚀 Passionate Full Stack Developer  
+🌍 Based in Brazil — working remotely  
+💻 I love building modern, scalable, and performant web & mobile applications  
 
-<hr />
+---
 
+### 🛠 Tech Stack
+
+- 🌐 **Front-end:** React.js, Next.js, React Native (Expo), Electron  
+- 🎨 **Styling:** Tailwind CSS  
+- 🧠 **Languages:** JavaScript, TypeScript  
+- 🔧 **Back-end:** Node.js, Express, NestJS  
+- 🗃 **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB  
+- ☁️ **Cloud & DevOps:** AWS, Git, Azure  
+- 🧩 **Tools:** JIRA, GitHub
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out, collaborate or just say hi! 😄
+
+---
+
+_Thanks for visiting my profile! ⭐️_
