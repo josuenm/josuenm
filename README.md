@@ -2,30 +2,26 @@
   <img src="https://komarev.com/ghpvc/?username=josuenm&label=Profile%20views&color=0e75b6&style=flat" alt="josuenm" />
 </p>
 
-### Hey there, I'm Josué Mendonça 👽
+# 👋 Hi, I'm Josué Mendonça
 
-🚀 Passionate Full Stack Developer  
-🌍 Based in Brazil — working remotely  
-💻 I love building modern, scalable, and performant web & mobile applications  
-
----
-
-### 🛠 Tech Stack
-
-- 🌐 **Front-end:** React.js, Next.js, React Native (Expo), Electron  
-- 🎨 **Styling:** Tailwind, Bootstrap, CSS, SCSS
-- 🧠 **Languages:** JavaScript, TypeScript, PHP  
-- 🔧 **Back-end:** Node.js, Express, NestJS, Laravel  
-- 🗃 **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB  
-- ☁️ **Cloud & DevOps:** AWS, Git, Azure  
-- 🧩 **Tools:** JIRA, GitHub
+💳 Full Stack Developer with years of hands-on experience in **payments and financial systems**  
+🚀 Built a **payment gateway from scratch**, handling **PIX, split payments, and large-scale transaction flows**  
+☁️ Skilled in **AWS cloud architectures** and **high availability systems**  
+💻 Passionate about delivering **secure, scalable, and high-performance solutions**  
 
 ---
 
-### 📫 Let's Connect
+## 🛠 Tech Stack
 
-Feel free to reach out, collaborate or just say hi! 😄
+- 🌐 **Frontend:** React.js, Next.js, React Native  
+- ⚙️ **Backend:** Node.js, NestJS, Express, Laravel  
+- 🗄️ **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB  
+- ☁️ **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), GitHub Actions, CI/CD  
+- 💳 **Payments:** PIX, MercadoPago, Payment Gateways, Webhooks  
 
 ---
 
-_Thanks for visiting my profile! ⭐️_
+## 📫 Connect with Me  
+
+Open to collaborations and ambitious projects in **fintech and scalable platforms**.  
+Let’s build the future of payments together. 🚀
