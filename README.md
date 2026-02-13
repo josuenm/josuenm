@@ -13,11 +13,12 @@
 
 ## 🛠 Tech Stack
 
-- 🌐 **Frontend:** React.js, Next.js, React Native  
+- 🌐 **Frontend:** React.js, Next.js, React Native, Electron  
 - ⚙️ **Backend:** Node.js, NestJS, Express, Laravel  
 - 🗄️ **Databases:** PostgreSQL, MySQL, DynamoDB, MongoDB  
 - ☁️ **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), GitHub Actions, CI/CD  
-- 💳 **Payments:** PIX, MercadoPago, Payment Gateways, Webhooks  
+- 💳 **Payments:** PIX, MercadoPago, Payment Gateways, Webhooks
+- 👾 **Languages** Javascript, Typescript, PHP
 
 ---
 
