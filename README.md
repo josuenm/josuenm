@@ -20,9 +20,3 @@
 - ☁️ **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), GitHub Actions, CI/CD  
 - 💳 **Payments:** PIX, MercadoPago, Payment Gateways, Webhooks
 
----
-
-## 📫 Connect with Me  
-
-Open to collaborations and ambitious projects in **fintech and scalable platforms**.  
-Let’s build the future of payments together. 🚀
